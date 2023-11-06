@@ -1,0 +1,620 @@
+{
+  "data": [
+    {
+      "hovertemplate": "Estados=Acre\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Acre",
+      "line": { "color": "#636efa", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Acre",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.14523796113770768, 0.15883981631550512, 0.18656758185379807,
+        0.24774193548387097, 0.2743514404471836, 0.2509300711019607,
+        0.2057050274941084, 0.2613011877326715, 0.23405126525264106,
+        0.26820837176615275, 0.2330042313117066, 0.3301998097050428
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Amapa\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Amapa",
+      "line": { "color": "#EF553B", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Amapa",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.4359096016980896, 0.30268386197281283, 0.31987245188475116,
+        0.40992571518887305, 0.2381229773462783, 0.09510911925175371,
+        0.2887860496311201, 0.29585524069648345, 0.28687611280225145,
+        0.3263427377220481, 0.2702557827885568, 0.3945414242172347
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Amazonas\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Amazonas",
+      "line": { "color": "#00cc96", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Amazonas",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.19563871720336035, 0.2628047138047138, 0.2852299548309743,
+        0.29089172116032613, 0.2853581884263991, 0.23002304484882116,
+        0.26268267223382047, 0.28937334383728425, 0.2540438216298631,
+        0.2833213676031845, 0.23935629338167028, 0.3127006640448714
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Maranhao\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Maranhao",
+      "line": { "color": "#ab63fa", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Maranhao",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.12401595336708085, 0.1981391712275215, 0.11418363761107114,
+        0.12547113731664605, 0.15903284965091213, 0.11208207905096097,
+        0.1142341468670869, 0.16075685313898436, 0.16441625930329853,
+        0.1577524074599043, 0.1975873435967721, 0.17243770568876352
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Mato Grosso\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Mato Grosso",
+      "line": { "color": "#FFA15A", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Mato Grosso",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.12633263896502575, 0.19071383303033249, 0.1687458153265567,
+        0.19914850249430427, 0.18299648021712397, 0.14457978943169353,
+        0.15690396807573376, 0.19128713237674966, 0.196848832445719,
+        0.17496641127128798, 0.1399254438033823, 0.1713689375492045
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Para\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Para",
+      "line": { "color": "#19d3f3", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Para",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.1936671019401709, 0.2649440503736297, 0.2084063977281254,
+        0.21171277546651365, 0.20410737365799164, 0.15468226739020488,
+        0.19658243480739085, 0.23356991042963415, 0.23465000935803856,
+        0.2563959274985162, 0.274182314860281, 0.30599186033845943
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Rondonia\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Rondonia",
+      "line": { "color": "#FF6692", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Rondonia",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.19445002871912695, 0.2643678905920861, 0.23597310748275563,
+        0.302340532395781, 0.24951329902659805, 0.21498827323365582,
+        0.2289922582338276, 0.21142560643403813, 0.21960033504846238,
+        0.25997116126219777, 0.2218510245702632, 0.14672096013716246
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Roraima\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Roraima",
+      "line": { "color": "#B6E880", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Roraima",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.14733025708635464, 0.24116101017026625, 0.09220956719817767,
+        0.19425143714071483, 0.11893396976929196, 0.009178743961352657,
+        0.19934844930935627, 0.21753461668355284, 0.24276005547850207,
+        0.24872146118721464, 0.2107901037509976, 0.1136150234741784
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    },
+    {
+      "hovertemplate": "Estados=Tocantins\u003cbr\u003eAnos=%{x}\u003cbr\u003ePricipita\u00e7\u00e3o m\u00e9dia (mm)=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "Tocantins",
+      "line": { "color": "#FF97FF", "dash": "solid" },
+      "marker": { "symbol": "circle" },
+      "mode": "lines",
+      "name": "Tocantins",
+      "orientation": "v",
+      "showlegend": true,
+      "x": [
+        2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+      ],
+      "xaxis": "x",
+      "y": [
+        0.1414178447820731, 0.18322523174567826, 0.150455145032585,
+        0.18697219960451322, 0.17234894689761732, 0.13170040772553898,
+        0.13021928460342147, 0.16894643336443463, 0.18421864900871904,
+        0.15672966540669186, 0.19289600390681633, 0.17626789285189745
+      ],
+      "yaxis": "y",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": { "outlinewidth": 0, "ticks": "" },
+            "colorscale": [
+              [0.0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1.0, "#f0f921"]
+            ]
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": { "outlinewidth": 0, "ticks": "" }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": { "outlinewidth": 0, "ticks": "" },
+            "colorscale": [
+              [0.0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1.0, "#f0f921"]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": { "outlinewidth": 0, "ticks": "" },
+            "colorscale": [
+              [0.0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1.0, "#f0f921"]
+            ]
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": { "outlinewidth": 0, "ticks": "" },
+            "colorscale": [
+              [0.0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1.0, "#f0f921"]
+            ]
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": { "outlinewidth": 0, "ticks": "" }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": { "outlinewidth": 0, "ticks": "" },
+            "colorscale": [
+              [0.0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1.0, "#f0f921"]
+            ]
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": { "outlinewidth": 0, "ticks": "" },
+            "colorscale": [
+              [0.0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1.0, "#f0f921"]
+            ]
+          }
+        ],
+        "mesh3d": [
+          { "type": "mesh3d", "colorbar": { "outlinewidth": 0, "ticks": "" } }
+        ],
+        "scatter": [
+          { "marker": { "line": { "color": "#283442" } }, "type": "scatter" }
+        ],
+        "parcoords": [
+          {
+            "type": "parcoords",
+            "line": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "bar": [
+          {
+            "error_x": { "color": "#f2f5fa" },
+            "error_y": { "color": "#f2f5fa" },
+            "marker": {
+              "line": { "color": "rgb(17,17,17)", "width": 0.5 },
+              "pattern": { "fillmode": "overlay", "size": 10, "solidity": 0.2 }
+            },
+            "type": "bar"
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": { "fillmode": "overlay", "size": 10, "solidity": 0.2 }
+            },
+            "type": "histogram"
+          }
+        ],
+        "scattergl": [
+          { "marker": { "line": { "color": "#283442" } }, "type": "scattergl" }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "line": { "colorbar": { "outlinewidth": 0, "ticks": "" } },
+            "marker": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": { "colorbar": { "outlinewidth": 0, "ticks": "" } }
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#A2B1C6",
+              "gridcolor": "#506784",
+              "linecolor": "#506784",
+              "minorgridcolor": "#506784",
+              "startlinecolor": "#A2B1C6"
+            },
+            "baxis": {
+              "endlinecolor": "#A2B1C6",
+              "gridcolor": "#506784",
+              "linecolor": "#506784",
+              "minorgridcolor": "#506784",
+              "startlinecolor": "#A2B1C6"
+            },
+            "type": "carpet"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": { "color": "#506784" },
+              "line": { "color": "rgb(17,17,17)" }
+            },
+            "header": {
+              "fill": { "color": "#2a3f5f" },
+              "line": { "color": "rgb(17,17,17)" }
+            },
+            "type": "table"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": { "color": "rgb(17,17,17)", "width": 0.5 },
+              "pattern": { "fillmode": "overlay", "size": 10, "solidity": 0.2 }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "pie": [{ "automargin": true, "type": "pie" }]
+      },
+      "layout": {
+        "autotypenumbers": "strict",
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": { "color": "#f2f5fa" },
+        "hovermode": "closest",
+        "hoverlabel": { "align": "left" },
+        "paper_bgcolor": "rgb(17,17,17)",
+        "plot_bgcolor": "rgb(17,17,17)",
+        "polar": {
+          "bgcolor": "rgb(17,17,17)",
+          "angularaxis": {
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "ticks": ""
+          },
+          "radialaxis": {
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "ticks": ""
+          }
+        },
+        "ternary": {
+          "bgcolor": "rgb(17,17,17)",
+          "aaxis": {
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "ticks": ""
+          },
+          "caxis": {
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "ticks": ""
+          }
+        },
+        "coloraxis": { "colorbar": { "outlinewidth": 0, "ticks": "" } },
+        "colorscale": {
+          "sequential": [
+            [0.0, "#0d0887"],
+            [0.1111111111111111, "#46039f"],
+            [0.2222222222222222, "#7201a8"],
+            [0.3333333333333333, "#9c179e"],
+            [0.4444444444444444, "#bd3786"],
+            [0.5555555555555556, "#d8576b"],
+            [0.6666666666666666, "#ed7953"],
+            [0.7777777777777778, "#fb9f3a"],
+            [0.8888888888888888, "#fdca26"],
+            [1.0, "#f0f921"]
+          ],
+          "sequentialminus": [
+            [0.0, "#0d0887"],
+            [0.1111111111111111, "#46039f"],
+            [0.2222222222222222, "#7201a8"],
+            [0.3333333333333333, "#9c179e"],
+            [0.4444444444444444, "#bd3786"],
+            [0.5555555555555556, "#d8576b"],
+            [0.6666666666666666, "#ed7953"],
+            [0.7777777777777778, "#fb9f3a"],
+            [0.8888888888888888, "#fdca26"],
+            [1.0, "#f0f921"]
+          ],
+          "diverging": [
+            [0, "#8e0152"],
+            [0.1, "#c51b7d"],
+            [0.2, "#de77ae"],
+            [0.3, "#f1b6da"],
+            [0.4, "#fde0ef"],
+            [0.5, "#f7f7f7"],
+            [0.6, "#e6f5d0"],
+            [0.7, "#b8e186"],
+            [0.8, "#7fbc41"],
+            [0.9, "#4d9221"],
+            [1, "#276419"]
+          ]
+        },
+        "xaxis": {
+          "gridcolor": "#283442",
+          "linecolor": "#506784",
+          "ticks": "",
+          "title": { "standoff": 15 },
+          "zerolinecolor": "#283442",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "gridcolor": "#283442",
+          "linecolor": "#506784",
+          "ticks": "",
+          "title": { "standoff": 15 },
+          "zerolinecolor": "#283442",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "rgb(17,17,17)",
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#C8D4E3",
+            "gridwidth": 2
+          },
+          "yaxis": {
+            "backgroundcolor": "rgb(17,17,17)",
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#C8D4E3",
+            "gridwidth": 2
+          },
+          "zaxis": {
+            "backgroundcolor": "rgb(17,17,17)",
+            "gridcolor": "#506784",
+            "linecolor": "#506784",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#C8D4E3",
+            "gridwidth": 2
+          }
+        },
+        "shapedefaults": { "line": { "color": "#f2f5fa" } },
+        "annotationdefaults": {
+          "arrowcolor": "#f2f5fa",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "geo": {
+          "bgcolor": "rgb(17,17,17)",
+          "landcolor": "rgb(17,17,17)",
+          "subunitcolor": "#506784",
+          "showland": true,
+          "showlakes": true,
+          "lakecolor": "rgb(17,17,17)"
+        },
+        "title": { "x": 0.05 },
+        "updatemenudefaults": { "bgcolor": "#506784", "borderwidth": 0 },
+        "sliderdefaults": {
+          "bgcolor": "#C8D4E3",
+          "borderwidth": 1,
+          "bordercolor": "rgb(17,17,17)",
+          "tickwidth": 0
+        },
+        "mapbox": { "style": "dark" }
+      }
+    },
+    "xaxis": {
+      "anchor": "y",
+      "domain": [0.0, 1.0],
+      "title": { "text": "Anos" }
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": [0.0, 1.0],
+      "title": { "text": "Pricipita\u00e7\u00e3o m\u00e9dia (mm)" }
+    },
+    "legend": { "title": { "text": "Estados" }, "tracegroupgap": 0 },
+    "title": { "text": "M\u00e9dia de chuvas por ano" }
+  }
+}
